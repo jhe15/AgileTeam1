@@ -1,3 +1,3 @@
-__author__='FeiHou007'
+__author__='FeiHou'
 
 print "This is a git test"
